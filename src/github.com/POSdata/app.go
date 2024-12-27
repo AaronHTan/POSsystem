@@ -1,0 +1,5 @@
+package POSdata
+
+func main() {
+
+}
