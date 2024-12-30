@@ -1,5 +1,0 @@
-package POSdata
-
-func main() {
-
-}
